@@ -1,6 +1,8 @@
 # Changelog
 
-## Unreleased - 2026-03-??
+## Unreleased - 2026-??-??
+
+## 0.12.2 - 2026-04-17
 - Fixed: Low-Health alarm now plays correctly when using the alternative Health Display.
 - Fixed: HUD no longer disappears after saving the animals (again).
 
